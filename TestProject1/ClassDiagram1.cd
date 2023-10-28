@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TestProject1.MonsterTest">
+    <Position X="3" Y="2.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAACQAgARQAAAiAEABAAAAgAAAAACgAAACCAAAIAhgA=</HashCode>
+      <FileName>MonsterTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestProject1.MonsterManagerTests">
+    <Position X="7" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AMAAgAABAAAAAAAAAAAQADAAgAKAIAAIAAQAIIAAAAA=</HashCode>
+      <FileName>MonsterTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

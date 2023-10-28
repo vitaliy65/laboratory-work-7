@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MonsterClass.Monster">
+    <Position X="4" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CIAhLAAAAAEAgAAUBAAAAAIAKAAEgAACAUiBBQAAABg=</HashCode>
+      <FileName>monster.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_monsterType" />
+      <Field Name="_weapon" />
+      <Property Name="monsterType" />
+      <Property Name="weapon" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lab7_Posvistak_program.MainProgram">
+    <Position X="0.75" Y="2" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>/yYAgRFQQSAAhBGRAACCQADCIMw/BAAAkAQCAQAAALI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Lab7_Posvistak_program.MonsterType">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAEQAAA=</HashCode>
+      <FileName>MonsterType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Lab7_Posvistak_program.WeaponType">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAgAIAAAAAgAAAABEAAAA=</HashCode>
+      <FileName>WeaponType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
